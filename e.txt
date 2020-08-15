@@ -1,5 +1,8 @@
 adding e.txt
+<<<<<<< HEAD
 
 project update
 
 Project call tomorrow
+=======
+>>>>>>> parent of 10fead4... more update on e.txt
